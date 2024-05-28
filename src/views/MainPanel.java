@@ -7,8 +7,8 @@ import java.awt.BorderLayout;
 
 public class MainPanel extends JFrame {
 
-	private static final long serialVersionUID = 1L;
-	
+    private static final long serialVersionUID = 1L;
+
     public MainPanel() {
         setTitle("Panel Principal");
         setSize(800, 600);
