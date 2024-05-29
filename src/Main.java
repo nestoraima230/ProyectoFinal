@@ -1,8 +1,8 @@
-import controllers.InstructorController;
+import controllers.InstructorDetailsController;
 
 public class Main {
     public static void main(String[] args) {
-        InstructorController controller = new InstructorController();
-        controller.showInstructors();
+        InstructorDetailsController controller = new InstructorDetailsController();
+        controller.showView();
     }
 }
